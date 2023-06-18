@@ -1,7 +1,0 @@
-1 Open stand folder
-
-2 Open "Lua Scripts" within Stand Folder
-
-3 Paste Whoware files into "lua Scripts"
-
-4 Join the discord! https://discord.gg/S3GtdAq
