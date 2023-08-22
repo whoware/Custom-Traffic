@@ -1,0 +1,5 @@
+1 Whoware v10.2 Stand > lua scripts
+
+2 lib relates files are simply placed inside Stand > Lua scripts > lib
+
+done
