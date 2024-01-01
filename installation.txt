@@ -1,4 +1,4 @@
-1 Whoware v60 ... > Stand > Lua Scripts
+1 Chaotic Custom Traffic v60 ... > Stand > Lua Scripts
 
 2 lib relates files (Custom Traffic library files v14) are simply placed inside ... Stand > Lua scripts > lib
 
