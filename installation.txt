@@ -1,5 +1,5 @@
-1 Whoware v10.2 Stand > lua scripts
+1 Whoware v60 ... > Stand > Lua Scripts
 
-2 lib relates files are simply placed inside Stand > Lua scripts > lib
+2 lib relates files (Custom Traffic library files v14) are simply placed inside ... Stand > Lua scripts > lib
 
 done
